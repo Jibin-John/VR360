@@ -1,0 +1,11 @@
+body
+{
+  overflow: hidden;
+  margin:0;
+}
+
+#scene-container
+{
+  width:100vw;
+  height:100vh;
+}
